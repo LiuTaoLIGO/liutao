@@ -3219,3 +3219,22 @@ input, select, textarea {
 			}
 
 	}
+
+	.colorgrad {
+		font-size: 0.7cm;
+		font-weight: 900;
+		/* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+		background: -webkit-linear-gradient(0deg, #0021A5 0%, #FA4616 100%);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+
+	.thicktext {
+		color: #4f4f4f;
+		font-size: large;
+	}
+
+	.blandtext {
+		color: #b6b6b6;
+		font-size:medium;
+	}
